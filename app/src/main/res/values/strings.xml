@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Task Manager</string>
+    <string name="task_manager">مدیریت وظایف</string>
+    <string name="done">انجام نشده</string>
+    <string name="notDone">انجام شده</string>
+    <string name="save">ذخیره</string>
+    <string name="cancel">منصرف شدن</string>
+    <string name="add_task">اضافه کردن وظیفه</string>
+    <string name="taskDiscreeption">شرح را وارد کنید</string>
+</resources>
